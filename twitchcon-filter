@@ -1,3 +1,6 @@
 # Blocks "twitch" and "con" inside titles:
 
+^.*(twitch)(con).*$
+/^.*(twitch)(con).*$/
 (?i)^.*\s(twitch)\s.*(con)\s.*$|
+(?i)/^.*\s(twitch)\s.*(con)\s.*$/
