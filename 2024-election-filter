@@ -1,0 +1,3 @@
+# If contains "election" in title, non case-sensitive then blacklist any streams that contain it.
+~election
+~elections
